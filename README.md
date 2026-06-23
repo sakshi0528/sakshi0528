@@ -48,4 +48,11 @@ AI-powered symptom diagnosis chatbot.
 
 ---
 
+## Connect With Me
+
+GitHub: https://github.com/sakshi0528
+
+Portfolio:
+https://sakshi0528.github.io/cybershield-academy/
+
 ⭐ Always learning and building.
