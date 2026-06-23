@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Sakshi Maurya
 
-<!--
-**sakshi0528/sakshi0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA (Computer Networks & Cyber Security) Student
 
-Here are some ideas to get you started:
+🔐 Aspiring SOC Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Interested in Networking, Cybersecurity and Digital Forensics
+
+---
+
+## Skills
+
+- Networking
+- Cybersecurity Fundamentals
+- Python
+- HTML/CSS/JavaScript
+- Git & GitHub
+
+---
+
+## Certifications
+
+- Google Cloud Cybersecurity Certificate
+- CCNA: Introduction to Networks
+- Ethical Hacking Virtual Internship
+
+---
+
+## Projects
+
+### CyberShield Academy
+Cybersecurity learning platform built using HTML, CSS and JavaScript.
+
+### Fake Productivity Detection System
+Machine Learning project for productivity analysis using behavioral data.
+
+### MediBot
+AI-powered symptom diagnosis chatbot.
+
+---
+
+## Currently Learning
+
+- Linux
+- SOC Operations
+- Security Monitoring
+- Incident Response
+
+---
+
+⭐ Always learning and building.
